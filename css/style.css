@@ -1,0 +1,17 @@
+body {
+
+    background-color: gray;
+}
+
+#title {
+    text-align: center;
+}
+
+#description {
+    text-align: center;
+}
+
+#survey-form {
+    background-color: darkblue;
+    text-align: center;
+}
